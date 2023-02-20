@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rc03_sass/static/css/main.56e206a7.css",
+    "main.js": "/rc03_sass/static/js/main.ced969a6.js",
+    "index.html": "/rc03_sass/index.html",
+    "main.56e206a7.css.map": "/rc03_sass/static/css/main.56e206a7.css.map",
+    "main.ced969a6.js.map": "/rc03_sass/static/js/main.ced969a6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56e206a7.css",
+    "static/js/main.ced969a6.js"
+  ]
+}
